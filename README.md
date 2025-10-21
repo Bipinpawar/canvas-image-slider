@@ -49,7 +49,7 @@ image-slider/
 ## Clone the repository
 
 ```bash
-git clone https://github.com/Bipinpawar/image-slider.git
+git clone https://github.com/Bipinpawar/canvas-image-slider.git
 
 cd image-slider
 
