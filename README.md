@@ -6,7 +6,7 @@ A simple image slider built with React that uses a `<canvas>` to render multiple
 
 ## 📁 Project Structure
 
-image-slider/
+canvas-image-slider/
 │
 ├─ public/
 │ ├─ images/ 
@@ -26,6 +26,8 @@ image-slider/
 ├─ build/ # Generated after npm run build
 │ ├─ index.html
 | |─ images
+| |─ favicon.ico
+| |─ asset-manifest.json
 │ ├─ static/
 │ │ ├─ css/
 │ │ ├─ js/
@@ -51,7 +53,7 @@ image-slider/
 ```bash
 git clone https://github.com/Bipinpawar/canvas-image-slider.git
 
-cd image-slider
+cd canvas-image-slider
 
 # Install serve if not already installed
 npm install -g serve
