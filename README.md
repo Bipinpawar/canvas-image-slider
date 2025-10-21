@@ -2,7 +2,7 @@
 
 A simple image slider built with React that uses a `<canvas>` to render multiple images side-by-side. Users can drag to scroll through images. 
 
----
+```
 
 ## 📁 Project Structure
 
